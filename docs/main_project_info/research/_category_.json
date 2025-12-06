@@ -1,0 +1,8 @@
+{
+  "label": "Results Of Analysis",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Here, you can find the results of the analyses. We simulated matchups between our different component-bots."
+  }
+}

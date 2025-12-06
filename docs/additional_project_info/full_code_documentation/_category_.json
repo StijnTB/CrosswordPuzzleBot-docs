@@ -1,0 +1,8 @@
+{
+  "label": "Full Codebase",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Here, you can find the entire codebase of the project."
+  }
+}
