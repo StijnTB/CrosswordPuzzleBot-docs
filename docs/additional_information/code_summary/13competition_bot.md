@@ -34,11 +34,13 @@ Besides the standard operations, the Chance- and Combibots also need to calculat
 
 *valid_words()* takes a list of characters as input and returns a list of seven-letter words that can be created with either zero, one or two blank tiles, depending on how many the bot currently has.
 
-*brute_force()* gives the chance 
+*bingo_chance()* calculates bingo chances for every tilerow the bot might have in the next turn, using *brute_force() if that number is below four hundred thousand and *sampling()* if it is higher. 
 
-*sampling()* 
+*brute_force()* gives the bingo chances for every combination of letters in every tilerow given. It is used when the number of tilerows is below four hundred thousand.
 
-*bingo_chance()*
+ it will calculate a bingo chance for every combination of letters in every tilerow. Otherwise, the number of tilerows used for this calculation is capped at four hundred thousand.
+
+*sampling()* works the same as *brute_force()* but uses a maximum number of tilerows of four hundred thousand.
 
 *update_bingo_bonus_score()* combines the functionality of the previously mentioned functions to calculate a *bingo_bonus_score*.
 

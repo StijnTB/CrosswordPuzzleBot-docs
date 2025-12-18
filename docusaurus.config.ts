@@ -4,11 +4,11 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const organizationName = "StijnTB";
-const projectName = "PWS-2526-WordFeudBot";
+const projectName = "PWS-2526-CrosswordPuzzleBot";
 /** @type {import('@docusaurus/types').Config} */
 const config: Config = {
-  title: 'WordFeud Bot',
-  tagline: 'Play Wordfeud against me',
+  title: 'Wordfeud Bot',
+  tagline: 'Play Wordfeud against me!',
   url: 'https://'+organizationName+'.github.io',
   baseUrl: '/'+projectName+'/',
   onBrokenLinks: "throw",
@@ -42,7 +42,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/'+organizationName+'/WordFeudBot-docs/tree/main/',
+            'https://github.com/'+organizationName+'/CrosswordPuzzleBot-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

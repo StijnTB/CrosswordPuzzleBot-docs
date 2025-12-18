@@ -7,8 +7,8 @@ title: Global Information
 
 ## About us
 
-Welcome! We are Stijn Boschloo and Joram Heek, the creators of a Wordfeud bot (which you probably already know since you have found this site). You are reading this because we want to give you a brief introduction to help you better understand our work and its structure, because it is not just a standard development project.
-We are two Dutch high school students from VWO 6, and this bot is our PWS: our 'ProfielWerkStuk', a final project for any student in their last year of secondary education. This means that we had to spend 80 hours on either a research project or a product and make a report about the process and the result. We chose to do our PWS in Computer Science, since we both have an affinity for it. The idea to make a bot for Wordfeud came from Joram, who plays it at a high level.
+Welcome! We are Stijn Boschloo and Joram Heek, the creators of a bot for our home-made version of Wordfeud (which you probably already know since you have found this site). You are reading this because we want to give you a brief introduction to help you better understand our work and its structure, because it is not just a standard development project.
+We are two Dutch high school students from VWO 6, and this bot is our PWS: our 'ProfielWerkStuk', a final project for any student in their last year of secondary education. This means that we had to spend 80 hours on either a research project or a product and make a report about the process and the result. We chose to do our PWS in Computer Science, since we both have an affinity for it. The idea of making a bot for Wordfeud came from Joram, who plays it at a high level.
 
 ## About this website
 
