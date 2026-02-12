@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkword_feud_bot_docs=globalThis.webpackChunkword_feud_bot_docs||[]).push([[1574],{1767(o){o.exports=JSON.parse('{"metadata":{"permalink":"/PWS-2526-CrosswordPuzzleBot/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

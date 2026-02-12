@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkword_feud_bot_docs=globalThis.webpackChunkword_feud_bot_docs||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/PWS-2526-CrosswordPuzzleBot/blog","blogTitle":"Blog","authorsListPath":"/PWS-2526-CrosswordPuzzleBot/blog/authors"}')}}]);
