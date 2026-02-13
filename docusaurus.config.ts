@@ -5,7 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const organizationName = "StijnTB";
-const projectName = "PWS-2526-CrosswordPuzzleBot";
+const projectName = "CrosswordPuzzleBot-docs";
 /** @type {import('@docusaurus/types').Config} */
 const config: Config = {
   title: 'Wordfeud Bot',
