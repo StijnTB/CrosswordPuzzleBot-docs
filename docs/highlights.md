@@ -7,7 +7,7 @@ import WordfeudImage from '/img/wordfeud-intro.jpg';
 import ChessbotImage from '/img/chessbot.png';
 import PythonLogoImage from '/img/python-logo-master-v3-TM.png';
 import EmptyDemoImage from '/img/demo-test-image.png';
-import TimelineFlowchartImage from '/img/timeline-flowchart-v5.drawio.svg';
+import TimelineFlowchartImage from '/img/timeline-flowchart-v6.drawio.svg';
 import VictoryDistImage from '/img/victory-distribution.png';
 import AverageScoresImage from '/img/average-scores.png';
 import ImprovementsExampleImage from '/img/wordfeud-improvements.jpg';
