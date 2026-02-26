@@ -12,7 +12,7 @@ import VictoryDistImage from '/img/victory-distribution.png';
 import AverageScoresImage from '/img/average-scores.png';
 import ImprovementsExampleImage from '/img/wordfeud-improvements.jpg';
 import InsertedDemoImage from '/img/demo-word-inserted.png';
-import WebsiteQR from '/img/Pws website QR.png';
+import WebsiteQR from '/img/PWS website QR.png';
 
 # Highlights
 ## [Introduction](global_introduction.md)
